@@ -1,0 +1,3 @@
+[submodule "tinygps"]
+	path = tinygps
+	url = https://github.com/mikalhart/TinyGPS.git
